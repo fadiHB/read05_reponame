@@ -85,4 +85,3 @@ indicate opacity. It is known as RGBA.
 
 XX CSS3 also allows you to specify colors as HSL values,
 with an optional opacity value. It is known as HSLA.
-
